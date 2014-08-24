@@ -1,6 +1,6 @@
 <!DOCTYPE HTML>
 <!--
-	Data Ventures (dataventures.org)
+	Data Ventures (dataventures.org) | Harvard College
 	HTML5 UP Aerial Design | CCA 3.0 license
 	html5up.net | @n33co 
 -->
@@ -27,17 +27,13 @@
 					<header id="header">
 						<div style="background:rgba(22,22,22,.7); width:60%; margin:0 auto; padding-top:2.0px; padding-bottom:2.0px">
 						<h1>Data Ventures</h1>
-						<p>Analytics has never been bigger ◦ Join the intercollegiate innovation</p>
+						<p>Harvard College Division</p>
+						<p>Cambridge, MA</p>
 						<nav>
 							<ul>
 								<li>
-									<a href="harvard"><font color="white">Harvard</font></a>
+									<a href="hcs.harvard.edu/~data-venturesharvard.html"><font color="white">Welcome</font></a>
 								</li>
-								<li>
-									<a href="http://www.mit.edu"><font color="white">MIT</font></a>
-								</li>
-								<li>
-									<a href="http://www.columbia.edu"><font color="white">Columbia</font></a>
 								</li>
 							</ul>
 						</nav>
