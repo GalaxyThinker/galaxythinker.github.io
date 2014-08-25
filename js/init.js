@@ -1,5 +1,5 @@
 /*
-	HTML5 UP Aerial Design
+	HTML5 UP "Aerial" Design
 	html5up.net | @n33co
 	CCA 3.0 license (html5up.net/license)
 */

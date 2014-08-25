@@ -1,6 +1,6 @@
-Aerial by HTML5 UP
+HTML5 UP Design: Aerial
 html5up.net | @n33co
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+CCA 3.0 license (html5up.net/license)
 
 
 This is Aerial, a single page, single screen responsive site template. Real simple.
